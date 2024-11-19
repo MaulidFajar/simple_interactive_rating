@@ -119,3 +119,10 @@ main {
 .hidden {
   display: none;
 }
+
+@media screen and (min-width: 1000px) {
+  .main_card {
+    width: 350px;
+    height: 350px;
+  }
+}
